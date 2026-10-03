@@ -1,0 +1,6 @@
+pandas
+plotly
+openai
+python-dotenv
+ipykernel
+nbformat
